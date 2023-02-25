@@ -7,16 +7,19 @@ html {
     border: 4px solid darkred;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 4px;
+    gap: 8px;
     height: 200px;
+    width: 100%;
+    height: 1000px;
+    align-items: center;
+   
+ 
+ 
     
 
 }
 
 .txt{
-    border: 2px solid indianred;
     background: pink;
     color: blue;
 
