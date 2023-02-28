@@ -2,3 +2,16 @@ html {
     font-family: 'Phudu', cursive;
 font-family: 'Quicksand', sans-serif;
 }
+
+.parent {
+    display: flex;
+    height: 400px;
+    
+
+}
+
+.child {
+ width: 200px;
+ height: 200px;
+ margin: auto;
+}
